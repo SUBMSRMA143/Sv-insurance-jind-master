@@ -14,7 +14,7 @@ const About = () => {
                 style={{ minHeight: "400px" }}
               >
                 <img
-                  className="position-absolute w-100 h-100"
+                  className="position-absolute about_img w-100 h-100"
                   src="img/aboutt.jpg"
                   alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}

@@ -1,6 +1,12 @@
-.navbar-sticky-top{
+.navbar-sticky-top {
   position: sticky;
   left: 0;
   transition: all 0.5s linear;
   z-index: 10000;
+}
+
+@media screen and (max-width: 400px) {
+  .about_img {
+    transform: scaleX(-1);
+  }
 }

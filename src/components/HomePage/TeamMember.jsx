@@ -30,7 +30,7 @@ const TeamMember = () => {
                 </div>
                 <div className="team-text text-center bg-white p-4">
                   <h5>Laxmi Kant</h5>
-                  <p>Branch Manager</p>
+                  <p>Jind Branch Manager</p>
                   <div className="d-flex justify-content-center">
                     <Link
                       className="btn btn-square btn-light m-1"
@@ -49,7 +49,7 @@ const TeamMember = () => {
               <div className="team-item rounded">
                 <img
                   className="img-fluid"
-                  src="img/team-1.jpg"
+                  src="img/p1.jpg"
                   alt="Insurance Branch Manager Image"
                   loading="lazy"
                 />
@@ -58,8 +58,8 @@ const TeamMember = () => {
                   <span>Kharar Branch Manager</span>
                 </div>
                 <div className="team-text text-center bg-white p-4">
-                  <h5>Laxmi Kant</h5>
-                  <p>Branch Manager</p>
+                  <h5>Shubham Parashar</h5>
+                  <p>Kharar Branch Manager</p>
                   <div className="d-flex justify-content-center">
                     <Link
                       className="btn btn-square btn-light m-1"

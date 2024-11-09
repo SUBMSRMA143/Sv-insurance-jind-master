@@ -58,13 +58,14 @@ const FactMap = () => {
             >
               <div className="position-relative overflow-hidden h-100">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3479.199147118322!2d76.30874987447402!3d29.305833453189543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39120503e46cd34f%3A0x6faefbda338cd3fa!2sS%20%26V%20Washing%20Point%20and%20general%20insurance!5e0!3m2!1sen!2sin!4v1710434351971!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d214.30328235265395!2d76.64071765031616!3d30.75064395249269!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1731131300485!5m2!1sen!2sin"
                   style={{ border: "0", width: "100%", height: "100%" }}
                   allowfullscreen=""
                   loading="lazy"
                   referrerpolicy="no-referrer-when-downgrade"
                   title="S&V Insurance Map Location"
                 ></iframe>
+
               </div>
             </div>
           </div>
